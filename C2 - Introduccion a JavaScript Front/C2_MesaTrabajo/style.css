@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Dancing+Script:wght@700&family=Oleo+Script+Swash+Caps&family=Shadows+Into+Light&display=swap');
+
+body{
+    font-family: 'Shadows Into Light', cursive;
+    display: flex;
+    justify-content: center;
+}
